@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="play"> PLAY </string>
+    <string name="nextplay"> NEXT </string>
+    <string name="prevplay"> PREVIOUS </string>
+    <string name="pause"> PAUSE </string>
+</resources>
