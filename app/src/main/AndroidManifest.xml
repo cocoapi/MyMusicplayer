@@ -21,6 +21,7 @@
                 <action android:name="android.intent.action.QUICK_VIEW"/>
             </intent-filter>
         </activity>
+
         <service
             android:name=".musicplaying$MusicService"
             android:exported="false">

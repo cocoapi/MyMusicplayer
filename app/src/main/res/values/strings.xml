@@ -4,4 +4,6 @@
     <string name="nextplay"> NEXT </string>
     <string name="prevplay"> PREVIOUS </string>
     <string name="pause"> PAUSE </string>
+    <string name="settings"> 설정 </string>
+    <string name="backButton"> GO_BACK </string>
 </resources>
