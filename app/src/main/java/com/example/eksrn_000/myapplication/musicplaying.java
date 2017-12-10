@@ -17,11 +17,7 @@ import android.os.Bundle;
 import android.os.IBinder;
 import android.view.View;
 import android.view.Window;
-import android.widget.ImageButton;
-import android.widget.ImageView;
-import android.widget.SeekBar;
-import android.widget.TextView;
-
+import android.widget.*;
 import java.io.File;
 import java.io.IOException;
 
